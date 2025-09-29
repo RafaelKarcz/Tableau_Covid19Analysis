@@ -9,7 +9,7 @@ Tableau dashboard visualizing global COVID-19 metrics: deaths per continent, col
 Live demo
 ----------
 
-`View on Tableau Public <https://public.tableau.com/REPLACE_WITH_YOUR_COVID_URL>`_
+`View on Tableau Public <https://public.tableau.com/views/Covid19Analysis_17140978509490/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>`_
 
 Screenshot
 ----------
